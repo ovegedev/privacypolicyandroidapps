@@ -1,5 +1,4 @@
 # ResistanceApp: Privacy Policy
-# _____________________________
 
 Hello and welcome to ResistanceApp for Android.\
 ResistanceApp is an Android app developed by ovege/dev.\
@@ -7,7 +6,6 @@ We know how important is data to all of us so we like to be cristal clear about 
 This app does not collect any personally identifiable information from users and the data is only storaged in local. The way we monetize this app is showing ads provided by the Google AdMob program which provides safe and secure ads.
 
 ## Explanation of permissions requested in the app
-## _______________________________________________
 
 The list of permissions required are:
 
