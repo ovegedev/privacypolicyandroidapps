@@ -1,0 +1,3 @@
+#ResistanceApp: Privacy Policy
+#_____________________________
+
